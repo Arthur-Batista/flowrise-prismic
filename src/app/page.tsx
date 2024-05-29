@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="">
       <h1 className="font-body text-5xl font-bold">
-        Olá, mundo
+        Olá, mundo!!
       </h1>
     </main>
   );
